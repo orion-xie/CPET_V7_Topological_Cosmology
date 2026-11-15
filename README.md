@@ -14,3 +14,6 @@ CPET V7 is a unified first-principles framework bridging gravity and quantum ele
 - `CPET_V7_Final.tex`: The full LaTeX manuscript (ready for Overleaf compilation).
 - `cpet_dashboard.html`: The interactive zero-scatter visual engine for NGC 3198.
 - `cpet_fit.py`: Python script for the full 175-galaxy SPARC blind test.
+## Links
+- **Zenodo Preprint DOI:** https://doi.org/10.5281/zenodo.24148523
+- **Interactive Engine:** https://github.com/orion-xie/CPET_V7_Topological_Cosmology
